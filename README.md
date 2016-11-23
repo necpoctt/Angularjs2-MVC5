@@ -1,5 +1,5 @@
 # Angularjs2-MVC5
-Using Angular 2 in ASP.NET MVC 5  Visual Studio 2015
+Using Angularjs 2 in ASP.NET MVC 5  Visual Studio 2015
 
 How to run?
 * Ensure latest NODEJS and TypeScript is installed.
